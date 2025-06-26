@@ -10,5 +10,5 @@ demoUrl: https://mihirnepal.com
 repoUrl: https://github.com/
 ---
 
-Example text
+Example project description and text.
 
