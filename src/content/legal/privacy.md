@@ -112,6 +112,3 @@ For any questions or concerns regarding this Privacy Policy, please contact:
 **\[Your Name]**
 **Email:** \[Your Contact Email]
 
----
-
-Let me know if you want this adapted for your **country’s law**, or if you want a **Terms of Service** to go with it.

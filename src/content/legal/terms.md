@@ -1,27 +1,53 @@
 ---
 title: "Terms of Use"
-date: "03/07/2024"
+date: "03/11/2024"
 ---
 
-Please read these Terms of Use ("Terms", "Terms of Use") carefully before using the [Your Website URL] website (the "Service") operated by [Your Company Name] ("us", "we", or "our").
+# Terms of Service
 
-#### Agreement to Terms
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+**Effective Date:** \[Insert Date]
 
-#### Intellectual Property Rights
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+Welcome to \[Your Website Name] ("the Site"). By accessing or using this Site, you agree to be bound by these Terms of Service. If you do not agree, please do not use the Site.
 
-#### User Representations
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+---
 
-#### Links to Other Websites
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+## 1. Use of the Site
 
-#### Termination
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+You agree to use this website for lawful purposes only and in a way that does not infringe on the rights of others or restrict their use of the Site.
 
-#### Governing Law
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+---
 
-#### Changes to These Terms of Use
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+## 2. Content Ownership
+
+Unless otherwise stated, all content on this Site is owned or licensed by \[Your Name]. You may not reuse or reproduce any material without permission.
+
+---
+
+## 3. No Warranty
+
+This Site is provided “as is” without warranties of any kind. I do not guarantee the accuracy, reliability, or availability of the Site or its content.
+
+---
+
+## 4. Limitation of Liability
+
+To the fullest extent permitted by law, I am not liable for any damages arising from your use of or inability to use the Site.
+
+---
+
+## 5. External Links
+
+This Site may contain links to third-party sites. I am not responsible for the content or practices of those sites.
+
+---
+
+## 6. Modifications
+
+I may change or update these Terms at any time without notice. Continued use of the Site after changes constitutes acceptance.
+
+---
+
+## 7. Contact
+
+For any questions regarding these Terms, contact me at:
+**Email:** \[Your Contact Email]
