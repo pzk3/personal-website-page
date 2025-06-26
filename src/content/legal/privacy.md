@@ -5,8 +5,8 @@ date: "26/06/2025"
 
 # Privacy Policy
 
-**Effective Date:** \[26/06/2025]
-**Last Updated:** \[26/06/2025]
+**Effective Date:** \[Date]
+**Last Updated:** \[Date]
 
 This Privacy Policy outlines how \[Your Name] ("I", "me", or "my") collects, uses, discloses, and protects personal information obtained through this website ("the Site"). By accessing or using this Site, you consent to the collection and processing of your personal information as described in this policy.
 
