@@ -5,7 +5,7 @@ date: "10/11/2024"
 
 # Terms of Service
 
-**Effective Date:** \[26/06/2025]
+**Effective Date:** \[Date]
 
 Welcome to \[Your Website Name] ("the Site"). By accessing or using this Site, you agree to be bound by these Terms of Service. If you do not agree, please do not use the Site.
 
