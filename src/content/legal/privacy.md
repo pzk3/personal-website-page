@@ -1,12 +1,12 @@
 ---
 title: "Privacy Policy"
-date: "03/07/2024"
+date: "26/06/2025"
 ---
 
 # Privacy Policy
 
-**Effective Date:** \[Insert Date]
-**Last Updated:** \[Insert Date]
+**Effective Date:** \[26/06/2025]
+**Last Updated:** \[26/06/2025]
 
 This Privacy Policy outlines how \[Your Name] ("I", "me", or "my") collects, uses, discloses, and protects personal information obtained through this website ("the Site"). By accessing or using this Site, you consent to the collection and processing of your personal information as described in this policy.
 
@@ -112,6 +112,3 @@ For any questions or concerns regarding this Privacy Policy, please contact:
 **\[Your Name]**
 **Email:** \[Your Contact Email]
 
----
-
-Let me know if you want this adapted for your **country’s law**, or if you want a **Terms of Service** to go with it.
