@@ -51,5 +51,3 @@ I may change or update these Terms at any time without notice. Continued use of 
 
 For any questions regarding these Terms, contact me at:
 **Email:** \[Your Contact Email]
-
----
